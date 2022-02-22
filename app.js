@@ -52,7 +52,7 @@ function start() {
 
       if (server === "on") {
         axios
-          .get("https://sc.ftqq.com/" + sckey + ".send?text=" + message)
+          .get("https://sct.ftqq.com/" + sckey + ".send?text=" + message)
           // 解决 UnhandledPromiseRejectionWarning
           .catch((e) => {
             console.log(e);

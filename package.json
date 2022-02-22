@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ming917/hao4K-checkin.git"
+    "url": "git+https://github.com/cdanlover/hao4K-checkin.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ming917/hao4K-checkin/issues"
+    "url": "https://github.com/cdanlover/hao4K-checkin/issues"
   },
-  "homepage": "https://github.com/ming917/hao4K-checkin#readme",
+  "homepage": "https://github.com/cdanlover/hao4K-checkin#readme",
   "dependencies": {
     "axios": "^0.26.0",
     "iconv-lite": "^0.6.3",

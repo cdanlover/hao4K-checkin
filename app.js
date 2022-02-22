@@ -12,7 +12,7 @@ const sckey = process.env["SCKEY"];
 const cookie = process.env["COOKIE"];
 
 const checkInUrl =
-  "https://www.hao4k.cn//qiandao/?mod=sign&operation=qiandao&formhash=f4b02e7d&format=empty&inajax=1&ajaxtarget=JD_sign";
+  "https://www.hao4k.cn/qiandao/?mod=sign&operation=qiandao&formhash=f4b02e7d&format=empty&inajax=1&ajaxtarget=JD_sign";
 const userAgent =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36";
 
